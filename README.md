@@ -1,4 +1,4 @@
-# Enhanced Binary Analysis Tool
+# Manual Binary Analysis Tool (aka 'mba')
 
 A comprehensive security tool for analyzing binary files to detect potential malware indicators, with robust error handling, comprehensive logging, and contextual assessment capabilities.
 
